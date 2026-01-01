@@ -66,7 +66,7 @@ require_once dirname(__FILE__) .'/../PHP-Actions/loginFormAction.php';
                     <tr>
                         <td colspan="2" align="center">
                     <?php $hdrLabel = getLabel("loginForgotPassword",$locale); ?>
-                        <a style="color:#000000" href="http://www.future-research.com/FRCCareers/PHP-FileINcludes/FRCCareerBody.php?section=ForgotPassword"><?php echo $hdrLabel?></a>
+                        <a style="color:#000000" href="http://www.gmail.com/FRCCareers/PHP-FileINcludes/FRCCareerBody.php?section=ForgotPassword"><?php echo $hdrLabel?></a>
                         </td>
                     </tr>
             </table>

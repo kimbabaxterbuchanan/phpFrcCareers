@@ -6,7 +6,7 @@ class EmailModel  extends BaseModel
 {
   var $seq_num = "";
   var $role = "";
-  var $mailHost = "mail.future-research.com";
+  var $mailHost = "mail.gmail.com";
   var $isHTML = "yes";
   var $smtpAuth = "no";
   var $port = "25";
@@ -14,9 +14,9 @@ class EmailModel  extends BaseModel
   var $Password = "";
   var $toMail = "";
   var $toName = "";
-  var $fromMail = "careers@future-research.com";
+  var $fromMail = "careers@gmail.com";
   var $fromName = "FRC Careers";
-  var $replyMail = "careers@future-research.com";
+  var $replyMail = "careers@gmail.com";
   var $replyName = "FRC Careers";
   var $ccMail = "";
   var $ccName = "";

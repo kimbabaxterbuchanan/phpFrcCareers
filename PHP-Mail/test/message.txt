@@ -1,7 +1,7 @@
 Date: Mon, 10 Nov 2008 09:52:57 -0600
 Return-Path: unit_test@phpmailer.sf.net
-To: Test User <kbuchanan@future-research.com>
-Cc: Carbon User <kbuchanan@future-research.com>
+To: Test User <kbuchanan@gmail.com>
+Cc: Carbon User <kbuchanan@gmail.com>
 From: Unit Tester <unit_test@phpmailer.sf.net>
 Reply-to: Reply Guy <no_reply@phpmailer.sf.net>
 Subject: Unit Test: AltBody + Attachment
@@ -30,7 +30,7 @@ Content-Type: text/html; charset = "iso-8859-1"
 Content-Transfer-Encoding: 8bit
 
 
-This is the <b>HTML</b> part of the email.<br/><br/>---------------------<br/>Unit Test Information<br/>---------------------<br/>phpmailer version: 2.2<br/>Content Type: text/html<br/>Host: mail.future-research.com<br/>Changes<br/>-------<br/><ul><li>Sender was changed to [unit_test@phpmailer.sf.net]<br/><li>Mailer was changed to [smtp]<br/></ul><br/><br/>
+This is the <b>HTML</b> part of the email.<br/><br/>---------------------<br/>Unit Test Information<br/>---------------------<br/>phpmailer version: 2.2<br/>Content Type: text/html<br/>Host: mail.gmail.com<br/>Changes<br/>-------<br/><ul><li>Sender was changed to [unit_test@phpmailer.sf.net]<br/><li>Mailer was changed to [smtp]<br/></ul><br/><br/>
 
 
 
