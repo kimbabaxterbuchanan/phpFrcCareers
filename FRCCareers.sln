@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "FRCCareers", "FRCCareers.phpproj", "{269E1C89-D714-4C63-8C24-9092D31A9F04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91B4CAF8-F941-4C36-8B19-4342D1880887}"
+	ProjectSection(SolutionItems) = preProject
+		FRC-HR 01  APPLICATION.mht = FRC-HR 01  APPLICATION.mht
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Local|PHP 5.2 = Local|PHP 5.2
+		Production|PHP 5.2 = Production|PHP 5.2
+		Staging|PHP 5.2 = Staging|PHP 5.2
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269E1C89-D714-4C63-8C24-9092D31A9F04}.Local|PHP 5.2.ActiveCfg = Local|PHP 5.2
+		{269E1C89-D714-4C63-8C24-9092D31A9F04}.Local|PHP 5.2.Deploy.0 = Local|PHP 5.2
+		{269E1C89-D714-4C63-8C24-9092D31A9F04}.Production|PHP 5.2.ActiveCfg = Production|PHP 5.2
+		{269E1C89-D714-4C63-8C24-9092D31A9F04}.Production|PHP 5.2.Deploy.0 = Production|PHP 5.2
+		{269E1C89-D714-4C63-8C24-9092D31A9F04}.Staging|PHP 5.2.ActiveCfg = Staging|PHP 5.2
+		{269E1C89-D714-4C63-8C24-9092D31A9F04}.Staging|PHP 5.2.Deploy.0 = Staging|PHP 5.2
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

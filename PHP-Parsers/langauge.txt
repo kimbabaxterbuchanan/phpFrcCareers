@@ -1,0 +1,260 @@
+locale|resource_key|resource_value
+BASE|address1|Address
+en|address1|Address
+BASE|address2|Appartment/Suite
+en|address2|Appartment/Suite
+BASE|altBody|Alternate Body
+en|altBody|Alternate Body
+BASE|application_msg1|msg
+en|application_msg1|msg
+BASE|application_msg2|msg
+BASE|application_msg2|msg
+en|application_msg2|msg
+en|application_msg2|msg
+BASE|application_msg4|msg
+en|application_msg4|msg
+BASE|applicationId|Application ID
+en|applicationId|Application ID
+BASE|attachment_type|File Type
+en|attachment_type|File Type
+BASE|career_msg1|msg
+en|career_msg1|msg
+BASE|career_msg2|msg
+BASE|career_msg2|msg
+en|career_msg2|msg
+en|career_msg2|msg
+BASE|career_msg4|msg
+en|career_msg4|msg
+BASE|careerId|Career ID
+en|careerId|Career ID
+BASE|category|Category
+en|category|Category
+BASE|cellphone|Cell Phone
+en|cellphone|Cell Phone
+BASE|certification_msg1|msg
+en|certification_msg1|msg
+BASE|certification_msg2|msg
+BASE|certification_msg2|msg
+en|certification_msg2|msg
+en|certification_msg2|msg
+BASE|certification_msg4|msg
+en|certification_msg4|msg
+BASE|citizenship|CitizenShip Required
+en|citizenship|CitizenShip Required
+BASE|city|City
+en|city|City
+BASE|class_name|Class
+en|class_name|Class
+BASE|clearance|Clearance
+en|clearance|Clearance
+BASE|clearance_type|Type Of Clearance
+en|clearance_type|Type Of Clearance
+BASE|configuration_msg1|msg
+en|configuration_msg1|msg
+BASE|configuration_msg2|msg
+BASE|configuration_msg2|msg
+en|configuration_msg2|msg
+en|configuration_msg2|msg
+BASE|configuration_msg4|msg
+en|configuration_msg4|msg
+BASE|country|Country
+en|country|Country
+BASE|current_salary|Current Salary
+en|current_salary|Current Salary
+BASE|data_type|Input Data Type
+en|data_type|Input Data Type
+BASE|date_certified|Date Issued
+en|date_certified|Date Issued
+BASE|description|Long Description
+BASE|description|Description
+en|description|Long Description
+en|description|Description
+BASE|desired_salary|Desired Salary
+en|desired_salary|Desired Salary
+BASE|eeo_msg1|msg
+en|eeo_msg1|msg
+BASE|eeo_msg2|msg
+BASE|eeo_msg2|msg
+en|eeo_msg2|msg
+en|eeo_msg2|msg
+BASE|eeo_msg4|msg
+en|eeo_msg4|msg
+BASE|email|Email
+en|email|Email
+BASE|email_msg1|msg
+en|email_msg1|msg
+BASE|email_msg2|msg
+BASE|email_msg2|msg
+en|email_msg2|msg
+en|email_msg2|msg
+BASE|email_msg4|msg
+en|email_msg4|msg
+BASE|emailbody|Body
+en|emailbody|Body
+BASE|emailfrom|From
+en|emailfrom|From
+BASE|emailsubject|Subject
+en|emailsubject|Subject
+BASE|employment_status|Employment Status
+en|employment_status|Employment Status
+BASE|ethnic|Ethnic
+en|ethnic|Ethnic
+BASE|file_data|Report Format
+en|file_data|Report Format
+BASE|file_name|File Name
+en|file_name|File Name
+BASE|file_size|File Size
+en|file_size|File Size
+BASE|first_name|First Name
+en|first_name|First Name
+BASE|gender|Gender
+en|gender|Gender
+BASE|homephone|Home Phone
+en|homephone|Home Phone
+BASE|id|Record ID
+en|id|Record ID
+BASE|item_order|Order
+en|item_order|Order
+BASE|item_type|Type
+en|item_type|Type
+BASE|item_value|Value
+en|item_value|Value
+BASE|item_version|Version
+en|item_version|Version
+BASE|job_notification|Notify of New Job Postings
+en|job_notification|Notify of New Job Postings
+BASE|language_msg1|msg
+en|language_msg1|msg
+BASE|language_msg2|msg
+BASE|language_msg2|msg
+en|language_msg2|msg
+en|language_msg2|msg
+BASE|language_msg4|msg
+en|language_msg4|msg
+All|languages|BASE_Default,en_English
+BASE|last_name|Last Name
+en|last_name|Last Name
+BASE|locale|Language
+en|locale|Language
+BASE|max_salary|Max Salary
+en|max_salary|Max Salary
+BASE|middle_initial|Middel Initial
+en|middle_initial|Middel Initial
+BASE|militaryvet|Military Veteran
+en|militaryvet|Military Veteran
+BASE|min_salary|Min Salary
+en|min_salary|Min Salary
+BASE|name|Name
+en|name|Name
+BASE|name_key|Key
+en|name_key|Key
+BASE|nationality|Nationality
+en|nationality|Nationality
+BASE|nick_name|Nick Name
+en|nick_name|Nick Name
+BASE|nonvetdisabled|Non Disabled Veteran
+en|nonvetdisabled|Non Disabled Veteran
+BASE|notification_msg1|msg
+en|notification_msg1|msg
+BASE|notification_msg2|msg
+BASE|notification_msg2|msg
+en|notification_msg2|msg
+en|notification_msg2|msg
+BASE|notification_msg4|msg
+en|notification_msg4|msg
+BASE|open_date|Date Open
+en|open_date|Date Open
+BASE|orig_file_name|Original File Name
+en|orig_file_name|Original File Name
+BASE|other|Other
+en|other|Other
+BASE|password|Password
+en|password|Password
+BASE|profile_msg1|msg
+en|profile_msg1|msg
+BASE|profile_msg2|msg
+BASE|profile_msg2|msg
+en|profile_msg2|msg
+en|profile_msg2|msg
+BASE|profile_msg4|msg
+en|profile_msg4|msg
+BASE|race|Race
+en|race|Race
+BASE|relocate|Will You Relocate
+en|relocate|Will You Relocate
+BASE|report_msg1|msg
+en|report_msg1|msg
+BASE|report_msg2|msg
+BASE|report_msg2|msg
+en|report_msg2|msg
+en|report_msg2|msg
+BASE|report_msg4|msg
+en|report_msg4|msg
+BASE|report_type|Report  Type
+en|report_type|Report  Type
+BASE|req_number|Requirement Number
+en|req_number|Requirement Number
+BASE|requirement_msg1|msg
+en|requirement_msg1|msg
+BASE|requirement_msg2|msg
+BASE|requirement_msg2|msg
+en|requirement_msg2|msg
+en|requirement_msg2|msg
+BASE|requirement_msg4|msg
+en|requirement_msg4|msg
+BASE|resource_key|Key
+en|resource_key|Key
+BASE|resume_msg1|msg
+en|resume_msg1|msg
+BASE|resume_msg2|msg
+BASE|resume_msg2|msg
+en|resume_msg2|msg
+en|resume_msg2|msg
+BASE|resume_msg4|msg
+en|resume_msg4|msg
+BASE|role|Role
+en|role|Role
+BASE|secret_answer|Secret Answer
+en|secret_answer|Secret Answer
+BASE|secret_question|Secret Question
+en|secret_question|Secret Question
+BASE|shift|Shift
+en|shift|Shift
+BASE|shortdescription|Short Description
+en|shortdescription|Short Description
+BASE|smtpAuth|SMTP Authorization Required
+en|smtpAuth|SMTP Authorization Required
+BASE|smtpHost|SMTP Host
+en|smtpHost|SMTP Host
+BASE|smtpPassword|SMTP Password
+en|smtpPassword|SMTP Password
+BASE|smtpApplicant|SMTP ApplicantName
+en|smtpApplicant|SMTP ApplicantName
+BASE|state|State
+en|state|State
+BASE|status|Status
+en|status|Status
+BASE|super_user|Administrator
+en|super_user|Administrator
+BASE|title|Title
+en|title|Title
+BASE|uscitizen|US Citizen
+en|uscitizen|US Citizen
+BASE|user_msg1|msg
+en|user_msg1|msg
+BASE|user_msg2|msg
+BASE|user_msg2|msg
+en|user_msg2|msg
+en|user_msg2|msg
+BASE|user_msg4|msg
+en|user_msg4|msg
+BASE|userId|Applicant ID
+en|userId|Applicant ID
+BASE|vetdisabled|Disabled Veteran
+en|vetdisabled|Disabled Veteran
+BASE|vietnamvet|Vietnam Veteran
+en|vietnamvet|Vietnam Veteran
+BASE|workphone|Work Phone
+en|workphone|Work Phone
+BASE|zipcode|Zip Code
+en|zipcode|Zip Code
